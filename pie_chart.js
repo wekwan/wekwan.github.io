@@ -160,7 +160,7 @@ var series =  [{
 
  // Configuration about the plot
  var title = {
-    text: 'Number of Men Applied to UCSD (2005-2010)'
+    text: 'McDonald\'s'
  };
 
  var xAxis = {

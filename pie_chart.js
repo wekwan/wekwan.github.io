@@ -160,7 +160,7 @@ var series =  [{
 
  // Configuration about the plot
  var title = {
-    text: 'McDonald\'s'
+    text: 'McDonald'
  };
 
  var xAxis = {
